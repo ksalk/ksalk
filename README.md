@@ -1,6 +1,6 @@
 ## Hi there
 
-I am a software developer working primarly in .NET and Azure ecosystems. I'm always excited to learn new technologies, explore alternative problem-solving approaches, and stay updated on the latest developments in the tech world.
+I'm a software developer primarily working within the .NET and Azure ecosystems. I'm always excited to learn new technologies, explore alternative problem-solving approaches, and stay updated on the latest developments in the tech world.
 <!--
 **ksalk/ksalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
