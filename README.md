@@ -2,7 +2,7 @@
 
 I'm a software developer primarily working within the .NET and Azure ecosystems, although I'm always excited to learn new technologies, explore alternative problem-solving approaches, and stay updated on the latest developments in the tech world.
 
-I write dev blog about .NET and software development, check it out: [https://ksalk.pl](https://ksalk.pl])
+⚡ I write dev blog about .NET and software development, check it out 🔭 [https://ksalk.pl](https://ksalk.pl])
 <!--
 **ksalk/ksalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
