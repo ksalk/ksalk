@@ -8,9 +8,9 @@ I write dev blog about .NET and software development, check it out at [ksalk.pl]
 
 ## Currently working on
 
-- [**stefan-voice-assistant**](https://github.com/ksalk/stefan-voice-assistant) — home multi-node voice AI assistant built with .NET
+- [**stefan-voice-assistant**](https://github.com/ksalk/stefan-voice-assistant) - home multi-node voice AI assistant built with .NET
 - [**bomba-finder**](https://github.com/ksalk/bomba-finder) - .NET API and Discord bot for finding videos from quotes and dialogues from the Polish animated series Kapitan Bomba (altough it works for any YouTube videos)
-- [**shy**](https://github.com/ksalk/bird) — a shell written in C#
+- [**shy**](https://github.com/ksalk/bird) - a shell written in C#
 - [**bird**](https://github.com/ksalk/bird) - RUST CLI/TUI app for managing Europa Universalis 4 save games
 
 - Exploring AI/LLM tooling and agent frameworks
