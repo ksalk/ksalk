@@ -22,7 +22,7 @@ I write about .NET, EF Core, and software development over at [ksalk.pl](https:/
 
 ## Connect
 
-- [ksalk.pl dev vlog](https://ksalk.pl)
+- [ksalk.pl dev blog](https://ksalk.pl)
 - [X / Twitter](https://x.com/KonradSalkowski)
 - [LinkedIn](https://www.linkedin.com/in/konrad-salkowski/)
  
