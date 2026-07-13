@@ -26,9 +26,9 @@ I write about .NET, EF Core, and software development over at [ksalk.pl](https:/
 - [X / Twitter](https://x.com/KonradSalkowski)
 - [LinkedIn](https://www.linkedin.com/in/konrad-salkowski/)
  
-## Stats
+<!-- ## Stats -->
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksalk&show_icons=true&theme=tokyonight) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksalk&layout=compact&theme=tokyonight)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksalk&layout=compact&theme=tokyonight) -->
 <!-- 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ksalk&theme=tokyonight)  -->
