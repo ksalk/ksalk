@@ -12,7 +12,7 @@ I write dev blog about .NET and software development, check it out at [ksalk.pl]
 - [**kapitan-bomba-finder**](https://github.com/ksalk/kapitan-bomba-finder) - .NET API and Discord bot for finding videos from quotes and dialogues from the Polish animated series Kapitan Bomba (altough it works for any YouTube videos)
 - [**bird**](https://github.com/ksalk/bird) - RUST CLI/TUI app for managing Europa Universalis 4 save games
 
-- [**shy**](https://github.com/ksalk/shy) - a shell written in C# (learning how it works) 
+- [**shy**](https://github.com/ksalk/shy) - a shell written in C# (for learning how shell works under the hood) 
 
 - Exploring AI/LLM tooling and agent frameworks
 - Building my personal homelab with all the services I need
